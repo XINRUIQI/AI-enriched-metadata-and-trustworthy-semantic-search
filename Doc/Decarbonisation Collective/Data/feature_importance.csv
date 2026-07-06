@@ -1,0 +1,60 @@
+feature,importance
+wall_insulation_insulated,0.3191527415495722
+property_type_flat,0.23218775831002844
+estimated_floor_count,0.06926047277286548
+roof_type_flat,0.05988412857665846
+main_heat_type_room/storage heaters,0.045191348593255035
+glazing_type_double/triple,0.043029841784597005
+construction_age_band_1996-2011,0.03795257421280682
+roof_insulation_uninsulated,0.03284344687567681
+property_type_house,0.031793213114149614
+glazing_type_single/partial,0.027118314798769135
+roof_type_pitched,0.022970519280164706
+total_floor_area,0.018403660871611487
+construction_age_band_1967-1982,0.009410182809983899
+main_fuel_type_mains gas,0.009098939156026407
+solar_pv_potential,0.008277616792641669
+built_form_mid-terrace,0.007684043543465716
+wall_type_solid,0.007556523889375324
+construction_age_band_1983-1995,0.004993956227775739
+tenure_social,0.0036380203004932696
+main_heat_type_boiler,0.003530523973130366
+imd19_income_decile,0.0028250675313627525
+wall_type_cavity,0.0018515241179219099
+roof_type_room in roof,0.0013455809176677624
+construction_age_band_1930-1949,0.0
+construction_age_band_1950-1966,0.0
+built_form_detached,0.0
+built_form_end-terrace,0.0
+wall_type_other,0.0
+number_habitable_rooms_up to 2,0.0
+number_habitable_rooms_7 to 8,0.0
+number_habitable_rooms_9 or more,0.0
+number_habitable_rooms_6,0.0
+number_habitable_rooms_5,0.0
+number_habitable_rooms_3,0.0
+number_habitable_rooms_4,0.0
+construction_age_band_2012-onwards,0.0
+construction_age_band_pre-1900,0.0
+tenure_private-rented,0.0
+tenure_owner-occupied,0.0
+construction_age_band_1900-1929,0.0
+built_form_semi-detached,0.0
+roof_insulation_insulated,0.0
+roof_insulation_another dwelling above,0.0
+main_heat_type_no heating system,0.0
+main_heat_type_heat pump,0.0
+main_heat_type_communal,0.0
+glazing_type_secondary,0.0
+roof_type_another dwelling above,0.0
+wall_insulation_uninsulated,0.0
+main_heat_type_other,0.0
+main_fuel_type_electricity,0.0
+conservation_area_flag_not in conservation area,0.0
+conservation_area_flag_in conservation area,0.0
+main_fuel_type_other,0.0
+main_fuel_type_no heating system,0.0
+is_listed_listed,0.0
+is_listed_not_listed,0.0
+fuel_poverty,0.0
+heat_risk_quintile,0.0
