@@ -5,7 +5,7 @@
 
 We take the Data for London catalogue — **20,685 datasets**, of which **100% have no theme and 92% have no tags** — and use NLP to automatically enrich the metadata, then add semantic search on top. Crucially, we don't just build it; we **evaluate it honestly** and show where it can and cannot be trusted (*"can you vouch for it?"*).
 
-**YUYUE XIA & XINRUI QI***
+**YUYUE XIA & XINRUI QI**
 
 ---
 
