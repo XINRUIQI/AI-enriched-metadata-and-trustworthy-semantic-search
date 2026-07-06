@@ -1,0 +1,155 @@
+{
+  "energy efficiency retrofit of homes": {
+    "keyword": [
+      {
+        "title": "Carbon Intensity",
+        "score": 18
+      },
+      {
+        "title": "Number of households - Low Income/Low energy Efficiency (LILEE)",
+        "score": 14
+      },
+      {
+        "title": "Percentage of households in fuel poverty - Low Income/Low energy Efficiency (LILEE)",
+        "score": 14
+      },
+      {
+        "title": "Number of households in fuel poverty - Low Income/Low energy Efficiency (LILEE)",
+        "score": 14
+      },
+      {
+        "title": "Distribution Future Energy Scenarios by Local Authorities",
+        "score": 12
+      }
+    ],
+    "semantic": [
+      {
+        "title": "Buildings: Future Demand: Electricity (Small Power) Demand with Deep Retrofit",
+        "theme": "laep, networks, heat, attribution",
+        "score": 0.6050000190734863
+      },
+      {
+        "title": "Buildings: Future Demand: Electricity (Small Power) Demand with Shallow Retrofit",
+        "theme": "laep, networks, heat, attribution",
+        "score": 0.5860000252723694
+      },
+      {
+        "title": "Buildings: Scenario: Non-Domestic Annual Heat Demand with Retrofit - Building-level (AG2030) - View only",
+        "theme": "laep, networks, heat, attribution",
+        "score": 0.5559999942779541
+      },
+      {
+        "title": "Buildings: Future Demand: Heating Demand with Deep Retrofit",
+        "theme": "laep, networks, heat, attribution",
+        "score": 0.5479999780654907
+      },
+      {
+        "title": "Top 10% LSOAs for Heat Demand Savings with Retrofit (Domestic Buildings)",
+        "theme": "laep, networks, heat, attribution",
+        "score": 0.5440000295639038
+      }
+    ]
+  },
+  "young people unemployment and training": {
+    "keyword": [
+      {
+        "title": "Coronavirus (COVID-19) Vaccine Roll Out",
+        "score": 77
+      },
+      {
+        "title": "Coronavirus (COVID-19) Weekly Update",
+        "score": 54
+      },
+      {
+        "title": "Public Health Outcomes Framework Indicators",
+        "score": 52
+      },
+      {
+        "title": "Coronavirus (COVID-19) Deaths",
+        "score": 49
+      },
+      {
+        "title": "London Labour Market, Skills and Employment Indicators",
+        "score": 49
+      }
+    ],
+    "semantic": [
+      {
+        "title": "Unemployment (model-based)",
+        "theme": "(unclustered / noise)",
+        "score": 0.5849999785423279
+      },
+      {
+        "title": "Unemployment: people claiming out of work benefit (aged 16 to 64)",
+        "theme": "(unclustered / noise)",
+        "score": 0.5820000171661377
+      },
+      {
+        "title": "Labour Market Opportunities for Young People Value",
+        "theme": "(unclustered / noise)",
+        "score": 0.578000009059906
+      },
+      {
+        "title": "Ealing Employment and unemployment",
+        "theme": "(unclustered / noise)",
+        "score": 0.5699999928474426
+      },
+      {
+        "title": "Unemployment Rate, Region",
+        "theme": "(unclustered / noise)",
+        "score": 0.5640000104904175
+      }
+    ]
+  },
+  "air quality and pollution": {
+    "keyword": [
+      {
+        "title": "Coronavirus (COVID-19) Vaccine Roll Out",
+        "score": 66
+      },
+      {
+        "title": "Coronavirus (COVID-19) Deaths",
+        "score": 51
+      },
+      {
+        "title": "London Atmospheric Emissions Inventory (LAEI) 2019",
+        "score": 43
+      },
+      {
+        "title": "Coronavirus (COVID-19) Weekly Update",
+        "score": 43
+      },
+      {
+        "title": "Public Health Outcomes Framework Indicators",
+        "score": 42
+      }
+    ],
+    "semantic": [
+      {
+        "title": "Analysing Air Pollution Exposure in London",
+        "theme": "(unclustered / noise)",
+        "score": 0.6499999761581421
+      },
+      {
+        "title": "Air pollution: estimated fraction of mortality attributable to particulate air pollution",
+        "theme": "(unclustered / noise)",
+        "score": 0.6359999775886536
+      },
+      {
+        "title": "Air pollution: fine particulate matter (new method - concentrations of total PM2.5)",
+        "theme": "(unclustered / noise)",
+        "score": 0.621999979019165
+      },
+      {
+        "title": "Understanding Health Impacts of Air Pollution in London",
+        "theme": "(unclustered / noise)",
+        "score": 0.6190000176429749
+      },
+      {
+        "title": "Fraction of mortality attributable to particulate air pollution - Persons - 30+ yrs",
+        "theme": "(unclustered / noise)",
+        "score": 0.6029999852180481
+      }
+    ]
+  }
+}

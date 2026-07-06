@@ -1,0 +1,242 @@
+{
+  "queries": [
+    "young people not in work",
+    "air pollution near schools",
+    "housing affordability by borough",
+    "cycling accidents in London",
+    "energy inefficient homes",
+    "population change in outer London",
+    "crime around transport stations",
+    "access to green space"
+  ],
+  "per_query": {
+    "young people not in work": {
+      "keyword": {
+        "p5": 0.2,
+        "p10": 0.1,
+        "mrr": 1.0,
+        "ndcg10": 0.11768826558093261,
+        "rel5": 1,
+        "rel10": 1
+      },
+      "tfidf": {
+        "p5": 0.6,
+        "p10": 0.3,
+        "mrr": 1.0,
+        "ndcg10": 0.250785426772629,
+        "rel5": 3,
+        "rel10": 3
+      },
+      "semantic": {
+        "p5": 1.0,
+        "p10": 1.0,
+        "mrr": 1.0,
+        "ndcg10": 0.9920981320115997,
+        "rel5": 5,
+        "rel10": 10
+      }
+    },
+    "air pollution near schools": {
+      "keyword": {
+        "p5": 0.4,
+        "p10": 0.4,
+        "mrr": 1.0,
+        "ndcg10": 0.4006495538513042,
+        "rel5": 2,
+        "rel10": 4
+      },
+      "tfidf": {
+        "p5": 1.0,
+        "p10": 1.0,
+        "mrr": 1.0,
+        "ndcg10": 0.8196104814592204,
+        "rel5": 5,
+        "rel10": 10
+      },
+      "semantic": {
+        "p5": 1.0,
+        "p10": 1.0,
+        "mrr": 1.0,
+        "ndcg10": 1.0,
+        "rel5": 5,
+        "rel10": 10
+      }
+    },
+    "housing affordability by borough": {
+      "keyword": {
+        "p5": 0.4,
+        "p10": 0.6,
+        "mrr": 0.5,
+        "ndcg10": 0.37569834743266617,
+        "rel5": 2,
+        "rel10": 6
+      },
+      "tfidf": {
+        "p5": 1.0,
+        "p10": 1.0,
+        "mrr": 1.0,
+        "ndcg10": 0.9542781950617816,
+        "rel5": 5,
+        "rel10": 10
+      },
+      "semantic": {
+        "p5": 1.0,
+        "p10": 0.9,
+        "mrr": 1.0,
+        "ndcg10": 0.895960929667405,
+        "rel5": 5,
+        "rel10": 9
+      }
+    },
+    "cycling accidents in London": {
+      "keyword": {
+        "p5": 0.2,
+        "p10": 0.2,
+        "mrr": 0.3333333333333333,
+        "ndcg10": 0.09427183086799593,
+        "rel5": 1,
+        "rel10": 2
+      },
+      "tfidf": {
+        "p5": 1.0,
+        "p10": 1.0,
+        "mrr": 1.0,
+        "ndcg10": 0.5347236180636676,
+        "rel5": 5,
+        "rel10": 10
+      },
+      "semantic": {
+        "p5": 1.0,
+        "p10": 0.8,
+        "mrr": 1.0,
+        "ndcg10": 0.9071455803303017,
+        "rel5": 5,
+        "rel10": 8
+      }
+    },
+    "energy inefficient homes": {
+      "keyword": {
+        "p5": 0.4,
+        "p10": 0.6,
+        "mrr": 0.25,
+        "ndcg10": 0.4342520067531789,
+        "rel5": 2,
+        "rel10": 6
+      },
+      "tfidf": {
+        "p5": 0.2,
+        "p10": 0.2,
+        "mrr": 0.3333333333333333,
+        "ndcg10": 0.14185627724851593,
+        "rel5": 1,
+        "rel10": 2
+      },
+      "semantic": {
+        "p5": 0.8,
+        "p10": 0.9,
+        "mrr": 1.0,
+        "ndcg10": 0.6984231249134317,
+        "rel5": 4,
+        "rel10": 9
+      }
+    },
+    "population change in outer London": {
+      "keyword": {
+        "p5": 0.4,
+        "p10": 0.3,
+        "mrr": 1.0,
+        "ndcg10": 0.27552509444514306,
+        "rel5": 2,
+        "rel10": 3
+      },
+      "tfidf": {
+        "p5": 1.0,
+        "p10": 0.8,
+        "mrr": 1.0,
+        "ndcg10": 0.872605410657909,
+        "rel5": 5,
+        "rel10": 8
+      },
+      "semantic": {
+        "p5": 1.0,
+        "p10": 0.9,
+        "mrr": 1.0,
+        "ndcg10": 0.80325616769542,
+        "rel5": 5,
+        "rel10": 9
+      }
+    },
+    "crime around transport stations": {
+      "keyword": {
+        "p5": 0.8,
+        "p10": 0.8,
+        "mrr": 1.0,
+        "ndcg10": 0.7591481791281758,
+        "rel5": 4,
+        "rel10": 8
+      },
+      "tfidf": {
+        "p5": 0.4,
+        "p10": 0.5,
+        "mrr": 0.5,
+        "ndcg10": 0.33699273388709794,
+        "rel5": 2,
+        "rel10": 5
+      },
+      "semantic": {
+        "p5": 1.0,
+        "p10": 1.0,
+        "mrr": 1.0,
+        "ndcg10": 1.0,
+        "rel5": 5,
+        "rel10": 10
+      }
+    },
+    "access to green space": {
+      "keyword": {
+        "p5": 0.6,
+        "p10": 0.7,
+        "mrr": 1.0,
+        "ndcg10": 0.6023183251787346,
+        "rel5": 3,
+        "rel10": 7
+      },
+      "tfidf": {
+        "p5": 0.8,
+        "p10": 0.6,
+        "mrr": 1.0,
+        "ndcg10": 0.5934303510615639,
+        "rel5": 4,
+        "rel10": 6
+      },
+      "semantic": {
+        "p5": 1.0,
+        "p10": 0.8,
+        "mrr": 1.0,
+        "ndcg10": 0.8294589351809158,
+        "rel5": 5,
+        "rel10": 8
+      }
+    }
+  },
+  "summary": {
+    "keyword": {
+      "p5": 0.425,
+      "p10": 0.463,
+      "mrr": 0.76,
+      "ndcg10": 0.382
+    },
+    "tfidf": {
+      "p5": 0.75,
+      "p10": 0.675,
+      "mrr": 0.854,
+      "ndcg10": 0.563
+    },
+    "semantic": {
+      "p5": 0.975,
+      "p10": 0.913,
+      "mrr": 1.0,
+      "ndcg10": 0.891
+    }
+  }
+}

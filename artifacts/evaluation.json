@@ -1,0 +1,16 @@
+{
+  "backend": "sentence-transformers/all-MiniLM-L6-v2",
+  "method": "hdbscan",
+  "n_datasets": 20685,
+  "n_themes": 76,
+  "n_unclustered": 7316,
+  "silhouette": 0.354,
+  "n_near_duplicate_pairs": 200,
+  "quality_before": {
+    "n_datasets": 20685,
+    "pct_no_tags": 92.5,
+    "pct_no_theme": 100.0,
+    "pct_short_desc": 1.8,
+    "n_orgs": 144
+  }
+}

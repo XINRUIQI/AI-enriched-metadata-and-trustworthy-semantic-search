@@ -1,0 +1,420 @@
+{
+  "p1_quality": {
+    "n_datasets": 20685,
+    "pct_no_tags": 92.5,
+    "pct_no_theme": 100.0,
+    "pct_short_desc": 1.8,
+    "n_orgs": 144,
+    "top_org": "Croydon",
+    "top_org_share_pct": 72.9,
+    "exact_dup_title_groups": 178,
+    "exact_dup_title_records": 378
+  },
+  "p5_themes": {
+    "0": {
+      "name": "school, pupils, schools, children",
+      "size": 924,
+      "top_org": "Croydon",
+      "top_org_share_pct": 79.1
+    },
+    "1": {
+      "name": "economic, employment, 16, 64",
+      "size": 1906,
+      "top_org": "Croydon",
+      "top_org_share_pct": 98.8
+    },
+    "2": {
+      "name": "household, census, table, income",
+      "size": 1894,
+      "top_org": "Croydon",
+      "top_org_share_pct": 67.2
+    },
+    "3": {
+      "name": "admissions, emergency, years, hospital",
+      "size": 1692,
+      "top_org": "Croydon",
+      "top_org_share_pct": 93.4
+    },
+    "4": {
+      "name": "ethnic, group, detailed, census",
+      "size": 1871,
+      "top_org": "Croydon",
+      "top_org_share_pct": 97.1
+    },
+    "5": {
+      "name": "age, population, males, females",
+      "size": 1173,
+      "top_org": "Croydon",
+      "top_org_share_pct": 97.9
+    },
+    "6": {
+      "name": "persons, prevalence, percentage, 18",
+      "size": 2102,
+      "top_org": "Croydon",
+      "top_org_share_pct": 55.1
+    },
+    "7": {
+      "name": "age, census, single, year",
+      "size": 1355,
+      "top_org": "Croydon",
+      "top_org_share_pct": 99.3
+    },
+    "8": {
+      "name": "earnings, pay, ashe, employees",
+      "size": 222,
+      "top_org": "Croydon",
+      "top_org_share_pct": 97.3
+    },
+    "9": {
+      "name": "census, industry, employment, 2021",
+      "size": 955,
+      "top_org": "Croydon",
+      "top_org_share_pct": 92.7
+    },
+    "10": {
+      "name": "meeting, stage, expected, pupils",
+      "size": 526,
+      "top_org": "Croydon",
+      "top_org_share_pct": 99.6
+    },
+    "11": {
+      "name": "emissions, energy, gas, co2e",
+      "size": 851,
+      "top_org": "Croydon",
+      "top_org_share_pct": 48.1
+    },
+    "12": {
+      "name": "persons, phe, org, fingertips",
+      "size": 2126,
+      "top_org": "Croydon",
+      "top_org_share_pct": 92.4
+    },
+    "13": {
+      "name": "payments, redbridge, 500, 30",
+      "size": 365,
+      "top_org": "London Borough of Redbridge",
+      "top_org_share_pct": 100.0
+    },
+    "14": {
+      "name": "camden, spend, report, planning",
+      "size": 2723,
+      "top_org": "London Borough of Camden",
+      "top_org_share_pct": 23.0
+    }
+  },
+  "p5_org_driven_count": 12,
+  "p5_silhouette_k15": 0.084,
+  "p5c_ari_vs_seed0": {
+    "1": 0.678,
+    "2": 0.732,
+    "3": 0.722,
+    "42": 0.74
+  },
+  "p5c_ari_mean": 0.718,
+  "p5_k_silhouette": {
+    "8": 0.069,
+    "10": 0.074,
+    "12": 0.086,
+    "15": 0.084,
+    "20": 0.105
+  },
+  "p23_search": {
+    "young people not in work": {
+      "keyword": [
+        "London Labour Market, Skills and Employment Indicators",
+        "TS058 - Distance travelled to work Works mainly from home rate",
+        "TS058 - Distance travelled to work Works mainly from home",
+        "TS058 - Distance travelled to work Works mainly at an offshore installation, in no fixed place, or outside the UK",
+        "33kV Circuit Operational Data Half Hourly - South Eastern Power Networks (SPN)"
+      ],
+      "tfidf": [
+        "Young People",
+        "Children & Young People",
+        "Young people who have attained a full level 3 qualification by age 19",
+        "New analysis on autism in Camden: children and young people",
+        "Children And Young People With Special Education Needs And Disabilities"
+      ],
+      "semantic": [
+        "Percentage of male 16 and 17 year olds not in education, employment or training (including Not Known)",
+        "Number of male 16 and 17 year olds not in education, employment or training (including Not Known)",
+        "Percentage of female 16 and 17 year olds not in education, employment or training (including Not Known)",
+        "Number of female 16 and 17 year olds not in education, employment or training (including Not Known)",
+        "16 to 17 year olds not in education, employment or training (NEET) or whose activity is not known"
+      ]
+    },
+    "energy efficiency retrofit of homes": {
+      "keyword": [
+        "Carbon Intensity",
+        "Number of households - Low Income/Low energy Efficiency (LILEE)",
+        "Percentage of households in fuel poverty - Low Income/Low energy Efficiency (LILEE)",
+        "Number of households in fuel poverty - Low Income/Low energy Efficiency (LILEE)",
+        "Distribution Future Energy Scenarios by Local Authorities"
+      ],
+      "tfidf": [
+        "Fuel poverty (low income, low energy efficiency methodology)",
+        "Fuel poverty (low income, low energy efficiency methodology)",
+        "Fuel poverty (low income, low energy efficiency methodology) - Not applicable - Not applicable",
+        "Fuel poverty (low income, low energy efficiency methodology) - Not applicable - Not applicable Denominator",
+        "Fuel poverty (low income, low energy efficiency methodology) - Not applicable - Not applicable Numerator"
+      ],
+      "semantic": [
+        "Buildings: Future Demand: Electricity (Small Power) Demand with Deep Retrofit",
+        "Buildings: Future Demand: Electricity (Small Power) Demand with Shallow Retrofit",
+        "Buildings: Scenario: Non-Domestic Annual Heat Demand with Retrofit - Building-level (AG2030) - View only",
+        "Buildings: Future Demand: Heating Demand with Deep Retrofit",
+        "Top 10% LSOAs for Heat Demand Savings with Retrofit (Domestic Buildings)"
+      ]
+    },
+    "air quality and pollution": {
+      "keyword": [
+        "Coronavirus (COVID-19) Vaccine Roll Out",
+        "Coronavirus (COVID-19) Deaths",
+        "London Atmospheric Emissions Inventory (LAEI) 2019",
+        "Coronavirus (COVID-19) Weekly Update",
+        "Public Health Outcomes Framework Indicators"
+      ],
+      "tfidf": [
+        "Camden Air Quality Monitoring",
+        "Analysing Air Pollution Exposure in London",
+        "London Air Quality Network Camden",
+        "London Air Quality Network Camden Latest Week",
+        "Low Emission Neighbourhoods"
+      ],
+      "semantic": [
+        "Analysing Air Pollution Exposure in London",
+        "Air pollution: estimated fraction of mortality attributable to particulate air pollution",
+        "Air pollution: fine particulate matter (new method - concentrations of total PM2.5)",
+        "Understanding Health Impacts of Air Pollution in London",
+        "Fraction of mortality attributable to particulate air pollution - Persons - 30+ yrs"
+      ]
+    },
+    "affordable housing and homelessness": {
+      "keyword": [
+        "Coronavirus (COVID-19) Vaccine Roll Out",
+        "Coronavirus (COVID-19) Deaths",
+        "Coronavirus (COVID-19) Weekly Update",
+        "London Atmospheric Emissions Inventory (LAEI) 2019",
+        "House Price per Square Metre in England and Wales"
+      ],
+      "tfidf": [
+        "GLA Affordable Housing Programme Outturn",
+        "Affordable Housing Open Data",
+        "DCLG Affordable Housing Supply, Borough",
+        "Affordable housing products in Brent and their affordability to target client groups",
+        "Number of affordable homes provided"
+      ],
+      "semantic": [
+        "Homelessness Provision, Borough",
+        "Homelessness: households in temporary accommodation",
+        "Homelessness - households owed a duty under the Homelessness Reduction Act (main applicant aged 16 to 24)",
+        "Core homelessness rate (% of households)",
+        "Homelessness - households in temporary accommodation"
+      ]
+    },
+    "childhood obesity": {
+      "keyword": [
+        "Percentage of reception children remaining overweight (including obesity) in year 6",
+        "Percentage of children moving from healthy weight in reception to overweight (including obesity) in year 6",
+        "Reception prevalence of obesity (including severe obesity), 3 years data combined",
+        "Reception: Prevalence of obesity (including severe obesity) - Persons - 4-5 yrs Numerator",
+        "Reception: Prevalence of obesity (including severe obesity) - Persons - 4-5 yrs Denominator"
+      ],
+      "tfidf": [
+        "Conditions Of Childhood Value",
+        "Spend: Obesity - children",
+        "Spend: Obesity - adults",
+        "Conditions Of Childhood Category",
+        "Childhood Obesity - JSNA 2019/20"
+      ],
+      "semantic": [
+        "Year 6 prevalence of severe obesity",
+        "Reception prevalence of severe obesity",
+        "Reception prevalence of obesity (including severe obesity), 3 years data combined",
+        "Year 6 prevalence of obesity (including severe obesity), 3 years data combined",
+        "Reception prevalence of obesity (including severe obesity)"
+      ]
+    },
+    "domestic abuse against women": {
+      "keyword": [
+        "House Price per Square Metre in England and Wales",
+        "MPS Violence Against Women and Girls dashboard data",
+        "MPS Monthly Crime Dashboard Data",
+        "MPS Business Crime dashboard data",
+        "Complex social factors: % of pregnant women"
+      ],
+      "tfidf": [
+        "Domestic abuse related incidents and crimes",
+        "Domestic abuse-related incidents and crimes - Persons - 16+ yrs",
+        "Complex social factors: % of pregnant women",
+        "Redbridge Abuse of Vulnerable Adults",
+        "Domestic Abuse - JSNA 2019/20"
+      ],
+      "semantic": [
+        "Domestic abuse related incidents and crimes",
+        "Domestic abuse-related incidents and crimes - Persons - 16+ yrs",
+        "Domestic Abuse - JSNA 2019/20",
+        "Redbridge Abuse of Vulnerable Adults",
+        "MPS Violence Against Women and Girls dashboard data"
+      ]
+    },
+    "cycling and walking infrastructure": {
+      "keyword": [
+        "Coronavirus (COVID-19) Vaccine Roll Out",
+        "Coronavirus (COVID-19) Deaths",
+        "Coronavirus (COVID-19) Weekly Update",
+        "London Atmospheric Emissions Inventory (LAEI) 2019",
+        "House Price per Square Metre in England and Wales"
+      ],
+      "tfidf": [
+        "Sustainable Transport Strategy - Walking & Cycling",
+        "Walking and Cycling by Borough",
+        "Cycling Infrastructure Database",
+        "Cycling Infrastructure Database (CID)",
+        "Londons ranking in access to business environment, digital infrastructure, non-digital infrastructure and skills"
+      ],
+      "semantic": [
+        "Sustainable Transport Strategy - Walking & Cycling",
+        "Cycling Infrastructure Database",
+        "Cycle Flows on the TFL Road Network",
+        "Walking times between adjacent stations in Zones 1-3",
+        "Percentage of adults cycling for travel at least three days per week"
+      ]
+    },
+    "household recycling and waste": {
+      "keyword": [
+        "Coronavirus (COVID-19) Vaccine Roll Out",
+        "Household - waste not sent for recycling (tonnes)",
+        "Household - other sources (not recycled) (tonnes)",
+        "Household - civic amenity sites (not recycled) (tonnes)",
+        "Household green recycling-reuse (tonnes)"
+      ],
+      "tfidf": [
+        "North London Household Waste Recycling Centres",
+        "Tonnage report - residual and recycling waste 2015-16",
+        "Municipal Recycling and Waste Strategy - Final Consultation Report",
+        "Tonnage report - residual and recycling waste 2017-18",
+        "Tonnage report - residual and recycling waste 2014/15"
+      ],
+      "semantic": [
+        "Household green recycling-reuse (tonnes)",
+        "Household dry recycling-reuse (tonnes)",
+        "Municipal Recycling & Waste Strategy - Assumptions: Built Environment",
+        "Household - waste not sent for recycling (tonnes)",
+        "Municipal Recycling & Waste Strategy - Assumptions: Demographic"
+      ]
+    }
+  },
+  "p6_dup_counts": {
+    "0.99": 44358,
+    "0.97": 295053,
+    "0.95": 424284,
+    "0.9": 844250
+  },
+  "p6_top50_identical_titles": 50,
+  "p4_tag_sample": [
+    {
+      "title": "Sex by single year of age (Census TS009) - Male Aged 32 years",
+      "tags": [
+        "year age",
+        "sex",
+        "single year",
+        "age",
+        "32"
+      ]
+    },
+    {
+      "title": "D04h - Population vaccination coverage: Flu (secondary school aged chi",
+      "tags": [
+        "aged children",
+        "school aged",
+        "flu",
+        "11",
+        "children persons"
+      ]
+    },
+    {
+      "title": "Total",
+      "tags": [
+        "apprenticeships",
+        "apprenticeship",
+        "starts",
+        "given time",
+        "given"
+      ]
+    },
+    {
+      "title": "Females aged 20 to 24 %",
+      "tags": [
+        "housing led",
+        "led",
+        "population projections",
+        "projections",
+        "aged 20"
+      ]
+    },
+    {
+      "title": "Percentage who have taken cannabis in the last month at age 15 - Perso",
+      "tags": [
+        "cannabis",
+        "15",
+        "month",
+        "15 persons",
+        "age 15"
+      ]
+    },
+    {
+      "title": "Ward Profile Jan-2020 Kentish Town ward",
+      "tags": [
+        "ward",
+        "jan 2020",
+        "jan",
+        "town",
+        "ward profile"
+      ]
+    },
+    {
+      "title": "Economic inactivity rate - aged 16-64 white not UK national ~ Denomina",
+      "tags": [
+        "national denominator",
+        "64 white",
+        "white uk",
+        "uk national",
+        "economic"
+      ]
+    },
+    {
+      "title": "Emergency admissions for lower respiratory tract infections (0 to 4 ye",
+      "tags": [
+        "admissions lower",
+        "tract infections",
+        "lower respiratory",
+        "respiratory tract",
+        "infections"
+      ]
+    },
+    {
+      "title": "Median length of stay (days) of emergency admissions to hospital for p",
+      "tags": [
+        "length",
+        "stay",
+        "median",
+        "hospital",
+        "admissions hospital"
+      ]
+    },
+    {
+      "title": "Key stage 1 pupils meeting the expected standard in reading - Female -",
+      "tags": [
+        "standard reading",
+        "reading",
+        "reading female",
+        "meeting expected",
+        "pupils meeting"
+      ]
+    }
+  ],
+  "p7_skore_checks": {
+    "available": true,
+    "summary": "checks.summarize() unavailable: 'EstimatorReport' object has no attribute 'checks'"
+  }
+}

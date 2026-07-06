@@ -1,0 +1,79 @@
+# Discovered themes
+
+- **Theme -1** (7316 datasets): (unclustered / noise) — top source: Croydon
+- **Theme 0** (193 datasets): 500, payments, redbridge, invoice — top source: London Borough of Redbridge
+- **Theme 1** (170 datasets): payments, redbridge, 30, days — top source: London Borough of Redbridge
+- **Theme 2** (72 datasets): bacteraemia, month, coli, acute — top source: Department of Health
+- **Theme 3** (64 datasets): planning, product, applications, 01 — top source: London Borough of Camden
+- **Theme 4** (116 datasets): spend, created, definition, services — top source: Department of Health
+- **Theme 5** (71 datasets): sexual, sti, chlamydia, hiv — top source: Croydon
+- **Theme 6** (76 datasets): journey, road, transport, time — top source: Croydon
+- **Theme 7** (181 datasets): laep, networks, heat, attribution — top source: Local Area Energy Planning (LAEP)
+- **Theme 8** (277 datasets): emissions, energy, co2e, gas — top source: Croydon
+- **Theme 9** (189 datasets): table, ready, census, 2021 — top source: London Borough of Camden
+- **Theme 10** (221 datasets): pay, earnings, ashe, employees — top source: Croydon
+- **Theme 11** (109 datasets): band, units, total, business — top source: Croydon
+- **Theme 12** (95 datasets): winter, deaths, excess, 85 — top source: Croydon
+- **Theme 13** (63 datasets): apprenticeships, apprenticeship, starts, number — top source: Croydon
+- **Theme 14** (197 datasets): passport, passports, held, census — top source: Croydon
+- **Theme 15** (138 datasets): nomis, workless, employment, earnings — top source: Office for National Statistics (ONS)
+- **Theme 16** (102 datasets): nationality, country, non, birth — top source: Croydon
+- **Theme 17** (92 datasets): absence, school, pupil, schools — top source: Croydon
+- **Theme 18** (89 datasets): homelessness, duty, owed, households — top source: Croydon
+- **Theme 19** (73 datasets): school, needs, emotional, mental — top source: Croydon
+- **Theme 20** (129 datasets): 2011, ward, census, household — top source: London Borough of Brent
+- **Theme 21** (91 datasets): progress, pupils, score, attainment — top source: Croydon
+- **Theme 22** (114 datasets): alcohol, admission, hospital, narrow — top source: Croydon
+- **Theme 23** (76 datasets): unpaid, care, hours, health — top source: Croydon
+- **Theme 24** (108 datasets): care, social, salt, ascof — top source: Croydon
+- **Theme 25** (67 datasets): 65, hip, fractures, 80 — top source: Croydon
+- **Theme 26** (219 datasets): deprivation, rank, deprived, tier — top source: Croydon
+- **Theme 27** (325 datasets): diabetes, type, received, people — top source: Croydon
+- **Theme 28** (158 datasets): religion, ts031, variable, question — top source: Croydon
+- **Theme 29** (207 datasets): vaccination, birthday, old, flu — top source: Croydon
+- **Theme 30** (84 datasets): overweight, obesity, centile, bmi — top source: Croydon
+- **Theme 31** (185 datasets): country, birth, ts012, census — top source: Croydon
+- **Theme 32** (73 datasets): screening, cancer, cervical, screened — top source: Croydon
+- **Theme 33** (311 datasets): life, mortality, born, live — top source: Croydon
+- **Theme 34** (135 datasets): projected, population, projections, local — top source: Croydon
+- **Theme 35** (264 datasets): led, projections, housing, population — top source: Croydon
+- **Theme 36** (398 datasets): household, establishment, census, communal — top source: Croydon
+- **Theme 37** (281 datasets): language, main, ts024, detailed — top source: Croydon
+- **Theme 38** (159 datasets): attendances, attendance, years, 18 — top source: Croydon
+- **Theme 39** (82 datasets): school, pupils, schools, number — top source: Croydon
+- **Theme 40** (109 datasets): diabetes, admissions, 19, 18 — top source: Croydon
+- **Theme 41** (118 datasets): exception, indicators, sum, exceptions — top source: Croydon
+- **Theme 42** (152 datasets): smoking, 18, prevalence, smokers — top source: Croydon
+- **Theme 43** (186 datasets): identity, national, ts028, detailed — top source: Croydon
+- **Theme 44** (83 datasets): achieving, development, school, children — top source: Croydon
+- **Theme 45** (537 datasets): meeting, stage, expected, pupils — top source: Croydon
+- **Theme 46** (192 datasets): 75, mortality, preventable, considered — top source: Croydon
+- **Theme 47** (617 datasets): ethnic, group, black, detailed — top source: Croydon
+- **Theme 48** (63 datasets): work, travel, method, census — top source: Croydon
+- **Theme 49** (69 datasets): unemployed, 74, table, economically — top source: Croydon
+- **Theme 50** (158 datasets): income, children, low, families — top source: Croydon
+- **Theme 51** (107 datasets): epilepsy, admissions, 19, young — top source: Croydon
+- **Theme 52** (142 datasets): 28, births, days, neonatal — top source: Croydon
+- **Theme 53** (64 datasets): asthma, mid, hospital, admissions — top source: Croydon
+- **Theme 54** (225 datasets): occupation, soc, code, census — top source: Croydon
+- **Theme 55** (196 datasets): industry, ts060, sic, census — top source: Croydon
+- **Theme 56** (62 datasets): arrival, arrived, uk, ts018 — top source: Croydon
+- **Theme 57** (225 datasets): age, single, ts007, year — top source: Croydon
+- **Theme 58** (617 datasets): sex, age, single, year — top source: Croydon
+- **Theme 59** (290 datasets): harm, mid, hospital, population — top source: Croydon
+- **Theme 60** (96 datasets): 2007, sic, employment, work — top source: Croydon
+- **Theme 61** (88 datasets): falls, emergency, admissions, 65 — top source: Croydon
+- **Theme 62** (673 datasets): age, males, females, counts — top source: Croydon
+- **Theme 63** (72 datasets): 65, aged, 18, yrs — top source: Croydon
+- **Theme 64** (84 datasets): ethnic, black, minority, groups — top source: Croydon
+- **Theme 65** (204 datasets): 64, economic, 16, qualifications — top source: Croydon
+- **Theme 66** (216 datasets): employment, occupations, economic, soc2020 — top source: Croydon
+- **Theme 67** (153 datasets): gastroenteritis, admissions, emergency, infants — top source: Croydon
+- **Theme 68** (128 datasets): infections, tract, respiratory, lower — top source: Croydon
+- **Theme 69** (89 datasets): emergency, admissions, yr, 18 — top source: Croydon
+- **Theme 70** (63 datasets): 24, emergency, admissions, 25 — top source: Croydon
+- **Theme 71** (217 datasets): traffic, accidents, road, 24 — top source: Croydon
+- **Theme 72** (74 datasets): disabled, ea, limiting, core — top source: Croydon
+- **Theme 73** (228 datasets): deprecated, 64, economic, 16 — top source: Croydon
+- **Theme 74** (574 datasets): economic, employment, 16, unemployment — top source: Croydon
+- **Theme 75** (144 datasets): deprecated, 64, economic, gcse — top source: Croydon

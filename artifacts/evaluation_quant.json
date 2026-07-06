@@ -1,0 +1,1031 @@
+{
+  "p3_precision_at_5": {
+    "per_query": {
+      "young people not in work": {
+        "keyword": {
+          "p@5": 0.2,
+          "top5": [
+            "London Labour Market, Skills and Employment Indicators",
+            "TS058 - Distance travelled to work Works mainly from home rate",
+            "TS058 - Distance travelled to work Works mainly from home",
+            "TS058 - Distance travelled to work Works mainly at an offshore install",
+            "33kV Circuit Operational Data Half Hourly - South Eastern Power Networ"
+          ],
+          "rel_flags": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "tfidf": {
+          "p@5": 0.0,
+          "top5": [
+            "Young People",
+            "Children & Young People",
+            "Young people who have attained a full level 3 qualification by age 19",
+            "New analysis on autism in Camden: children and young people",
+            "Children And Young People With Special Education Needs And Disabilitie"
+          ],
+          "rel_flags": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "semantic": {
+          "p@5": 1.0,
+          "top5": [
+            "Percentage of male 16 and 17 year olds not in education, employment or",
+            "Number of male 16 and 17 year olds not in education, employment or tra",
+            "Percentage of female 16 and 17 year olds not in education, employment ",
+            "Number of female 16 and 17 year olds not in education, employment or t",
+            "16 to 17 year olds not in education, employment or training (NEET) or "
+          ],
+          "rel_flags": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "energy efficiency retrofit of homes": {
+        "keyword": {
+          "p@5": 0.6,
+          "top5": [
+            "Carbon Intensity",
+            "Number of households - Low Income/Low energy Efficiency (LILEE)",
+            "Percentage of households in fuel poverty - Low Income/Low energy Effic",
+            "Number of households in fuel poverty - Low Income/Low energy Efficienc",
+            "Distribution Future Energy Scenarios by Local Authorities"
+          ],
+          "rel_flags": [
+            0,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "tfidf": {
+          "p@5": 1.0,
+          "top5": [
+            "Fuel poverty (low income, low energy efficiency methodology)",
+            "Fuel poverty (low income, low energy efficiency methodology)",
+            "Fuel poverty (low income, low energy efficiency methodology) - Not app",
+            "Fuel poverty (low income, low energy efficiency methodology) - Not app",
+            "Fuel poverty (low income, low energy efficiency methodology) - Not app"
+          ],
+          "rel_flags": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "semantic": {
+          "p@5": 1.0,
+          "top5": [
+            "Buildings: Future Demand: Electricity (Small Power) Demand with Deep R",
+            "Buildings: Future Demand: Electricity (Small Power) Demand with Shallo",
+            "Buildings: Scenario: Non-Domestic Annual Heat Demand with Retrofit - B",
+            "Buildings: Future Demand: Heating Demand with Deep Retrofit",
+            "Top 10% LSOAs for Heat Demand Savings with Retrofit (Domestic Building"
+          ],
+          "rel_flags": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "air quality and pollution": {
+        "keyword": {
+          "p@5": 0.4,
+          "top5": [
+            "Coronavirus (COVID-19) Vaccine Roll Out",
+            "Coronavirus (COVID-19) Deaths",
+            "London Atmospheric Emissions Inventory (LAEI) 2019",
+            "Coronavirus (COVID-19) Weekly Update",
+            "Public Health Outcomes Framework Indicators"
+          ],
+          "rel_flags": [
+            0,
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        "tfidf": {
+          "p@5": 1.0,
+          "top5": [
+            "Camden Air Quality Monitoring",
+            "Analysing Air Pollution Exposure in London",
+            "London Air Quality Network Camden",
+            "London Air Quality Network Camden Latest Week",
+            "Low Emission Neighbourhoods"
+          ],
+          "rel_flags": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "semantic": {
+          "p@5": 1.0,
+          "top5": [
+            "Analysing Air Pollution Exposure in London",
+            "Air pollution: estimated fraction of mortality attributable to particu",
+            "Air pollution: fine particulate matter (new method - concentrations of",
+            "Understanding Health Impacts of Air Pollution in London",
+            "Fraction of mortality attributable to particulate air pollution - Pers"
+          ],
+          "rel_flags": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "affordable housing and homelessness": {
+        "keyword": {
+          "p@5": 0.0,
+          "top5": [
+            "Coronavirus (COVID-19) Vaccine Roll Out",
+            "Coronavirus (COVID-19) Deaths",
+            "Coronavirus (COVID-19) Weekly Update",
+            "London Atmospheric Emissions Inventory (LAEI) 2019",
+            "House Price per Square Metre in England and Wales"
+          ],
+          "rel_flags": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "tfidf": {
+          "p@5": 1.0,
+          "top5": [
+            "GLA Affordable Housing Programme Outturn",
+            "Affordable Housing Open Data",
+            "DCLG Affordable Housing Supply, Borough",
+            "Affordable housing products in Brent and their affordability to target",
+            "Number of affordable homes provided"
+          ],
+          "rel_flags": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "semantic": {
+          "p@5": 1.0,
+          "top5": [
+            "Homelessness Provision, Borough",
+            "Homelessness: households in temporary accommodation",
+            "Homelessness - households owed a duty under the Homelessness Reduction",
+            "Core homelessness rate (% of households)",
+            "Homelessness - households in temporary accommodation"
+          ],
+          "rel_flags": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "childhood obesity": {
+        "keyword": {
+          "p@5": 1.0,
+          "top5": [
+            "Percentage of reception children remaining overweight (including obesi",
+            "Percentage of children moving from healthy weight in reception to over",
+            "Reception prevalence of obesity (including severe obesity), 3 years da",
+            "Reception: Prevalence of obesity (including severe obesity) - Persons ",
+            "Reception: Prevalence of obesity (including severe obesity) - Persons "
+          ],
+          "rel_flags": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "tfidf": {
+          "p@5": 0.6,
+          "top5": [
+            "Conditions Of Childhood Value",
+            "Spend: Obesity - children",
+            "Spend: Obesity - adults",
+            "Conditions Of Childhood Category",
+            "Childhood Obesity - JSNA 2019/20"
+          ],
+          "rel_flags": [
+            0,
+            1,
+            1,
+            0,
+            1
+          ]
+        },
+        "semantic": {
+          "p@5": 1.0,
+          "top5": [
+            "Year 6 prevalence of severe obesity",
+            "Reception prevalence of severe obesity",
+            "Reception prevalence of obesity (including severe obesity), 3 years da",
+            "Year 6 prevalence of obesity (including severe obesity), 3 years data ",
+            "Reception prevalence of obesity (including severe obesity)"
+          ],
+          "rel_flags": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "domestic abuse against women": {
+        "keyword": {
+          "p@5": 0.8,
+          "top5": [
+            "House Price per Square Metre in England and Wales",
+            "MPS Violence Against Women and Girls dashboard data",
+            "MPS Monthly Crime Dashboard Data",
+            "MPS Business Crime dashboard data",
+            "Complex social factors: % of pregnant women"
+          ],
+          "rel_flags": [
+            0,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "tfidf": {
+          "p@5": 1.0,
+          "top5": [
+            "Domestic abuse related incidents and crimes",
+            "Domestic abuse-related incidents and crimes - Persons - 16+ yrs",
+            "Complex social factors: % of pregnant women",
+            "Redbridge Abuse of Vulnerable Adults",
+            "Domestic Abuse - JSNA 2019/20"
+          ],
+          "rel_flags": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "semantic": {
+          "p@5": 1.0,
+          "top5": [
+            "Domestic abuse related incidents and crimes",
+            "Domestic abuse-related incidents and crimes - Persons - 16+ yrs",
+            "Domestic Abuse - JSNA 2019/20",
+            "Redbridge Abuse of Vulnerable Adults",
+            "MPS Violence Against Women and Girls dashboard data"
+          ],
+          "rel_flags": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "cycling and walking infrastructure": {
+        "keyword": {
+          "p@5": 0.0,
+          "top5": [
+            "Coronavirus (COVID-19) Vaccine Roll Out",
+            "Coronavirus (COVID-19) Deaths",
+            "Coronavirus (COVID-19) Weekly Update",
+            "London Atmospheric Emissions Inventory (LAEI) 2019",
+            "House Price per Square Metre in England and Wales"
+          ],
+          "rel_flags": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "tfidf": {
+          "p@5": 0.8,
+          "top5": [
+            "Sustainable Transport Strategy - Walking & Cycling",
+            "Walking and Cycling by Borough",
+            "Cycling Infrastructure Database",
+            "Cycling Infrastructure Database (CID)",
+            "Londons ranking in access to business environment, digital infrastruct"
+          ],
+          "rel_flags": [
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "semantic": {
+          "p@5": 1.0,
+          "top5": [
+            "Sustainable Transport Strategy - Walking & Cycling",
+            "Cycling Infrastructure Database",
+            "Cycle Flows on the TFL Road Network",
+            "Walking times between adjacent stations in Zones 1-3",
+            "Percentage of adults cycling for travel at least three days per week"
+          ],
+          "rel_flags": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "household recycling and waste": {
+        "keyword": {
+          "p@5": 0.8,
+          "top5": [
+            "Coronavirus (COVID-19) Vaccine Roll Out",
+            "Household - waste not sent for recycling (tonnes)",
+            "Household - other sources (not recycled) (tonnes)",
+            "Household - civic amenity sites (not recycled) (tonnes)",
+            "Household green recycling-reuse (tonnes)"
+          ],
+          "rel_flags": [
+            0,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "tfidf": {
+          "p@5": 1.0,
+          "top5": [
+            "North London Household Waste Recycling Centres",
+            "Tonnage report - residual and recycling waste 2015-16",
+            "Municipal Recycling and Waste Strategy - Final Consultation Report",
+            "Tonnage report - residual and recycling waste 2017-18",
+            "Tonnage report - residual and recycling waste 2014/15"
+          ],
+          "rel_flags": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "semantic": {
+          "p@5": 1.0,
+          "top5": [
+            "Household green recycling-reuse (tonnes)",
+            "Household dry recycling-reuse (tonnes)",
+            "Municipal Recycling & Waste Strategy - Assumptions: Built Environment",
+            "Household - waste not sent for recycling (tonnes)",
+            "Municipal Recycling & Waste Strategy - Assumptions: Demographic"
+          ],
+          "rel_flags": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    "mean_p@5": {
+      "keyword": 0.475,
+      "tfidf": 0.8,
+      "semantic": 1.0
+    },
+    "oracle": "author-defined concept regex over title+notes"
+  },
+  "p4_tag_quality": {
+    "pct_tags_with_digit": 15.8,
+    "pct_pure_numeric": 7.7,
+    "mean_words_per_tag": 1.43,
+    "pct_datasets_no_tags": 0.0,
+    "specific_tag_rate_sample30": 93.3,
+    "judged_sample": [
+      {
+        "title": "Pupils with special educational needs (SEN) - Persons - School age Upp",
+        "tags": [
+          "special educational",
+          "educational needs",
+          "educational",
+          "school",
+          "special"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "Hospital spells for foot disease for people with diabetes",
+        "tags": [
+          "foot",
+          "diabetes",
+          "disease",
+          "hospital",
+          "inpatient"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "TS022 - Ethnic group (detailed) Mixed or Multiple ethnic groups: Carib",
+        "tags": [
+          "ethnic",
+          "ethnic group",
+          "group",
+          "group detailed",
+          "mixed multiple"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "TS064 - Occupation - minor groups 211 Natural and Social Science Profe",
+        "tags": [
+          "occupation",
+          "natural",
+          "soc",
+          "professionals",
+          "science"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "Redbridge - Payments over £500 2010-11 to 2012-13 - April 2010",
+        "tags": [
+          "2010",
+          "500",
+          "payments",
+          "11 2012",
+          "500 2010"
+        ],
+        "ok_flags": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "title": "Under 75 mortality rate from cancer - Male - <75 yrs (Lower 95% Confid",
+        "tags": [
+          "75",
+          "rate cancer",
+          "cancer",
+          "mortality rate",
+          "male 75"
+        ],
+        "ok_flags": [
+          0,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "Controlled Parking Spaces",
+        "tags": [
+          "parking",
+          "brent",
+          "transparency",
+          "zones",
+          "transparency code"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "Sex by single year of age (Census TS009) - Female Aged 46 years (rate)",
+        "tags": [
+          "year age",
+          "46",
+          "sex",
+          "single year",
+          "age"
+        ],
+        "ok_flags": [
+          1,
+          0,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "Dtap / IPV / Hib vaccination (2 years) - registered population - retir",
+        "tags": [
+          "ipv hib",
+          "dtap ipv",
+          "ipv",
+          "dtap",
+          "hib"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "DEPRECATED: A&E attendances (under 1 year) - Male - <1 yr",
+        "tags": [
+          "year male",
+          "attendances year",
+          "deprecated attendances",
+          "male yr",
+          "attendances"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "A&E attendances (0-4 years) - Male - 0-4 yrs Upper 95% Confidence Limi",
+        "tags": [
+          "attendances years",
+          "attendances",
+          "years male",
+          "male yrs",
+          "yrs upper"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "People with type 2 diabetes who achieved a cholesterol value of 5mmol/",
+        "tags": [
+          "value 5mmol",
+          "5mmol",
+          "achieved cholesterol",
+          "cholesterol value",
+          "cholesterol"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "2021 Census Ready Made Table RM054",
+        "tags": [
+          "table",
+          "ready table",
+          "census ready",
+          "ready",
+          "2021 census"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "Tenure: Owned %",
+        "tags": [
+          "tenure",
+          "owned",
+          "classifies households",
+          "2011 https",
+          "provides classifies"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "Children in need due to socially unacceptable behaviour: rate per 10,0",
+        "tags": [
+          "rate 10",
+          "behaviour",
+          "10 000",
+          "000 aged",
+          "need"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          0,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "TS060 - Industry 03 Fishing and aquaculture rate",
+        "tags": [
+          "03",
+          "fishing",
+          "industry",
+          "ts060",
+          "ts060 industry"
+        ],
+        "ok_flags": [
+          0,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "DEPRECATED % of economically active with other qualifications (GCSE) -",
+        "tags": [
+          "qualifications gcse",
+          "active qualifications",
+          "gcse",
+          "deprecated economically",
+          "64 numerator"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "TS064 - Occupation - minor groups 525 Skilled Metal, Electrical and El",
+        "tags": [
+          "supervisors",
+          "electronic",
+          "occupation",
+          "skilled",
+          "soc"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "School pupils with social, emotional and mental health needs - Female ",
+        "tags": [
+          "school",
+          "emotional mental",
+          "social emotional",
+          "emotional",
+          "age lower"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "Average happy score (on 0-10 scale)",
+        "tags": [
+          "scale",
+          "happy",
+          "happiness",
+          "score",
+          "comparisons"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "Females age 1 (counts)",
+        "tags": [
+          "females age",
+          "age counts",
+          "females",
+          "counts",
+          "age"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "Key stage 1 pupils meeting the expected standard in reading - Persons ",
+        "tags": [
+          "school meals",
+          "meals",
+          "free school",
+          "free",
+          "standard reading"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "% aged 16-64 who are EA core or work-limiting disabled ~ Numerator",
+        "tags": [
+          "disabled numerator",
+          "core work",
+          "64 ea",
+          "ea core",
+          "limiting disabled"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "TS031 - Religion (detailed) Other religion: Taoist",
+        "tags": [
+          "religion",
+          "religion detailed",
+          "ts031",
+          "ts031 religion",
+          "detailed"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "TS022 - Ethnic group (detailed) Mixed or Multiple ethnic groups: Engli",
+        "tags": [
+          "ethnic",
+          "ethnic group",
+          "group",
+          "group detailed",
+          "mixed multiple"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "Spend: Sexual health services - STI testing and treatment",
+        "tags": [
+          "testing",
+          "sti",
+          "sexual health",
+          "treatment",
+          "spend"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "Transport: Baseline: Required Electricity Capacity for Car Park EV Cha",
+        "tags": [
+          "ev",
+          "2025",
+          "substation",
+          "capacity",
+          "car"
+        ],
+        "ok_flags": [
+          1,
+          0,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "Sex by single year of age (Census TS009) - Male Aged 21 years",
+        "tags": [
+          "year age",
+          "sex",
+          "single year",
+          "age",
+          "single"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "Tenure: Social rented: Rented from council (Local Authority)",
+        "tags": [
+          "rented",
+          "tenure",
+          "social rented",
+          "social",
+          "classifies households"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "title": "Census 2001 Key Statistics 24: Migration",
+        "tags": [
+          "key statistics",
+          "migration",
+          "2001",
+          "2001 key",
+          "census 2001"
+        ],
+        "ok_flags": [
+          1,
+          1,
+          0,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  "p6_dup_precision": {
+    "0.99": {
+      "n_pairs_examined": 50,
+      "identical_titles": 50,
+      "nonidentical_true_neardupe": 0,
+      "precision@50": 1.0,
+      "examples_nonidentical": []
+    },
+    "0.97": {
+      "n_pairs_examined": 50,
+      "identical_titles": 50,
+      "nonidentical_true_neardupe": 0,
+      "precision@50": 1.0,
+      "examples_nonidentical": []
+    },
+    "0.95": {
+      "n_pairs_examined": 50,
+      "identical_titles": 50,
+      "nonidentical_true_neardupe": 0,
+      "precision@50": 1.0,
+      "examples_nonidentical": []
+    }
+  },
+  "p6_note": "Precision@K only. Recall is UNKNOWN: total true duplicate pairs in 20,685 datasets was never labelled.",
+  "p5_theme_stability_ari": {
+    "vs_seed0": {
+      "1": 0.678,
+      "2": 0.732,
+      "3": 0.722,
+      "42": 0.74
+    },
+    "mean": 0.718
+  },
+  "p7_skore": {
+    "available": true,
+    "check_warnings": [],
+    "check_stdout": [
+      "╭────────────────── HighClassImbalanceTooFewExamplesWarning ───────────────────╮",
+      "│ It seems that you have a classification problem with at least one class with │",
+      "│ fewer than 100 examples in the test set. In this case, using                 │",
+      "│ train_test_split may not be a good idea because of high variability in the   │",
+      "│ scores obtained on the test set. We suggest three options to tackle this     │",
+      "│ challenge: you can increase test_size, collect more data, or use skore's     │",
+      "│ CrossValidationReport with the `cv_splitter` parameter of your choice.       │",
+      "╰──────────────────────────────────────────────────────────────────────────────╯",
+      "╭───────────────────────── HighClassImbalanceWarning ──────────────────────────╮",
+      "│ It seems that you have a classification problem with a high class imbalance. │",
+      "│ In this case, using train_test_split may not be a good idea because of high  │",
+      "│ variability in the scores obtained on the test set. To tackle this challenge │"
+    ],
+    "label_recovery_accuracy": 0.976,
+    "interpretation": "High accuracy proves the KMeans labels are learnable/reproducible from embeddings. It does NOT prove the themes are the 'right' themes -- the labels were produced by the same embeddings (circular). Treat as a STABILITY signal only.",
+    "metrics_repr": "                                  LogisticRegression\nMetric           Label / Average                    \nPrecision        0                          0.980952\n                 1                          0.998024\n                 2                          0.959140\n                 3                          0.986111\n                 4                          0.977733\n                 5                          1.000000\n                 6                          0.981025\n                 7                          0.987138\n                 8                          1.000000\n                 "
+  },
+  "p6_human_review": {
+    "regime_a_literal_top50": {
+      "n": 50,
+      "identical_titles": 50,
+      "duplicate_rate_pct": 100.0
+    },
+    "regime_b_review_band": {
+      "n": 50,
+      "counts": {
+        "duplicate": 1,
+        "near_duplicate": 5,
+        "related": 44,
+        "wrong": 0
+      },
+      "dup_or_neardup": 6,
+      "dup_or_neardup_pct": 12.0,
+      "on_topic_pct": 100.0,
+      "wrong": 0,
+      "sampling": "stratified across cosine bands 0.86-1.00, identical titles excluded, seed=0"
+    },
+    "framing": "Model FLAGS likely duplicates for human review; it does NOT auto-delete. Precision only; recall unknown."
+  }
+}
